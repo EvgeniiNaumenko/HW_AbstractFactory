@@ -1,0 +1,14 @@
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_AbstractFactory\bin\Debug\net8.0\HW_AbstractFactory.exe
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_AbstractFactory\bin\Debug\net8.0\HW_AbstractFactory.deps.json
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_AbstractFactory\bin\Debug\net8.0\HW_AbstractFactory.runtimeconfig.json
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_AbstractFactory\bin\Debug\net8.0\HW_AbstractFactory.dll
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_AbstractFactory\bin\Debug\net8.0\HW_AbstractFactory.pdb
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_AbstractFactory\obj\Debug\net8.0\HW_AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_AbstractFactory\obj\Debug\net8.0\HW_AbstractFactory.AssemblyInfoInputs.cache
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_AbstractFactory\obj\Debug\net8.0\HW_AbstractFactory.AssemblyInfo.cs
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_AbstractFactory\obj\Debug\net8.0\HW_AbstractFactory.csproj.CoreCompileInputs.cache
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_AbstractFactory\obj\Debug\net8.0\HW_AbstractFactory.dll
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_AbstractFactory\obj\Debug\net8.0\refint\HW_AbstractFactory.dll
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_AbstractFactory\obj\Debug\net8.0\HW_AbstractFactory.pdb
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_AbstractFactory\obj\Debug\net8.0\HW_AbstractFactory.genruntimeconfig.cache
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_AbstractFactory\obj\Debug\net8.0\ref\HW_AbstractFactory.dll
